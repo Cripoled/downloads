@@ -127,3 +127,8 @@ java.lang.Exception: Stopping Thread 1 failed: T06thread:1;
 
 !ENTRY com.nxp.mcuxpresso.core.debug.support.linkserver 4 0 2021-09-16 09:28:35.267
 !MESSAGE Unable to parse ProbeList output to get probe ref count: []
+
+!ENTRY org.eclipse.core.resources 4 1 2021-09-16 10:11:00.774
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2021-09-16 10:11:00.774
+!MESSAGE Problem finding next change, code: 5
