@@ -1,0 +1,40 @@
+!SESSION 2021-09-02 08:46:47.399 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @user.home/Documents/MCUXpressoIDE_11.4.0_6237/workspace
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2021-09-02 08:48:57.181
+!MESSAGE Recreating part support. No part support available.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-02 08:49:20.055
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jimmy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY MCUXpresso IDE SDK import 4 -1 2021-09-02 08:50:53.375
+!MESSAGE The following items are not supported or not valid SDKs
+[C:\Users\jimmy\Downloads\SDK_2_10_0_LPCXpresso55S69_doc.zip]
+
+!ENTRY MCUXpresso IDE SDK import 4 -1 2021-09-02 08:51:01.884
+!MESSAGE The following items are not supported or not valid SDKs
+[C:\Users\jimmy\Downloads\SDK_2_10_0_LPCXpresso55S69_doc.zip]
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2021-09-02 08:51:23.808
+!MESSAGE The device 'LPC55S69' (version='1.0.0') from SDK 'SDK_2.x_LPCXpresso55S69' (version='2.10.0', build='494 2021-07-15') will be installed.
+!SESSION 2021-09-16 08:53:39.930 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-16 08:54:42.466
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jimmy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
